@@ -2357,7 +2357,7 @@
 				"lanceTagSet": {
 					"items": [
 						"lance_type_mech",
-						"lance_type_cavalry"
+						"lance_type_striker"
 					],
 					"tagSetSourceFile": "tags/LanceTags"
 				},
